@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+html
+{
+    font-size: 10px;
+}
+body
+{
+    font-family: inter, sans-serif;
+    background-color:beige;
+    color:black;
+}
+
+.container
+{
+    background-color: bisque;
+    width: 97%;
+    margin: auto;
+    padding: 1rem;
+    margin-bottom:
+}
+
+img
+{
+    background-color: black;
+    width: 200;
+    border-radius: 50%;
+    margin: auto;
+    margin-left: 550px;
+    margin-right: 10px;
+    
+}
+.display_picture
+{
+    margin-left: -20;
+    margin-top: -180;
+}
+.first_name
+{
+    margin-bottom: -10px;
+    margin-top: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 5vw;
+}
+.last_name
+{
+    margin-top: -50rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 5vw;
+}
+a:hover
+{
+    color: midnightblue;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+.contact
+{
+    padding: 5px;
+    margin-top: -200;
+    margin-left: 920;
+}
+.mail
+{
+    font-weight: 600;
+    font-size: 14;
+}
+.phno
+{
+    font-weight: 600;
+    margin-top: 2rem;
+    font-size: 14;
+}
+.in
+{
+    font-weight: 600;
+    margin-top: 1rem;
+    font-size: 14;
+}
+.git
+{
+    font-weight: 600;
+    margin-top: 1rem;
+    font-size: 14;
+}
+h1
+{
+    padding: 1;
+}
+hr
+{
+    color: red;
+    margin-top: 100;
+    display: block;
+    border: inset;
+    fill: darkred;
+
+}
+
+/* styling for the body division */
+
+.body
+{
+    margin-left: 10;
+    margin-top: 10px;
+    background-color: bisque;
+
+}
+.objective
+{
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+    text-transform: uppercase;
+    background-color: aliceblue;
+}
+.objective_description
+{
+    font-size: 22;
+    text-decoration: none;
+}
+
+.academics
+{
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+    background-color: aliceblue
+}
+table td,tr,th
+{
+    font-size: large;
+    background-origin: padding-box;
+    border: 1px solid;
+}
+.tb
+{
+    margin-top: 1rem;
+}
+.skills
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+ul,li
+{
+    font-size: 22;
+    padding-bottom: 10px;
+}
+.other
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.project
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.project_description
+{
+    font-size: 18px;
+}
+ol
+{
+    font-size: 22;
+    padding-bottom: 10px;
+}
+.ti
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.hobbies
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.langs
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.awards
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.dec
+{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border: 1px solid;
+    font-size: 15;
+    padding-left: 10;
+}
+.self_dec
+{
+    font-size: 18;
+}
+.declaration
+{
+    text-align: end;
+}
+.tenurespic
+{
+    display: inline;
+    margin-left: 610px;
+}
+.tenurehm
+{
+    display: inline;
+    margin-left: 410px;
+}
+.box
+{
+    border: 3px solid;
+    padding-left: -1;
+    padding-right: 11;
+    padding-top: 5;
+}
+#fuel1
+{
+    margin-left: 100;
+    margin-top: -35
+}
+#fuel2
+{
+    margin-left: 100;
+    margin-top: -35
+}
+#fuel3
+{
+    margin-left: 100;
+    margin-top: -35
+}
+.en
+{
+    margin-top: -35;
+}
+.hi
+{
+    margin-top: -35;
+}
+.pu
+{
+    margin-top: -35;
+}
+

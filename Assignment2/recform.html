@@ -1,0 +1,93 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recruitment form</title>
+    <link rel="stylesheet" href="recform.css">
+</head>
+<body>
+    <div class="container">
+        <label class="rec">Recruitment</label>
+        <br>
+        <label class="cname">
+            <span class="g1">G</span><span class="o1">o</span><span class="o2">o</span><span class="g2">g</span><span class="l">l</span><span class="e">e</span>
+        </label>
+        <form>
+            <fieldset>
+                <legend>Candidate Details</legend>
+                <br><br>
+                <label>First Name :</label>
+                <input type="text" name="fname" class="fname">
+                <br><br>
+
+                <label>Last Name :</label>
+                <input type="text" name="lname" class="lname">
+                <br><br>
+
+                <label>E-mail : </label>
+                <input type="email" class="mail" name="email">
+                <br><br>
+
+                <label>Ph.no : </label>
+                <input type="tel" class="ph" name="tel">
+                <br><br>
+
+                <label>D.O.B : </label>
+                <input type="date" name="birthday" class="dob">
+
+            </fieldset><br>
+            <hr>
+            <br>
+
+            <label> Job Role :</label>
+            <select name="jrole" id="role">
+            <option value="so">Software associate</option>
+            <option value="db">Data base administrator</option>
+            <option value="fe">Front-end Dev</option>
+            <option value="be">Back-end</option>
+            <option value="de">Tester</option>
+            </select>
+
+            <br><br>
+            <hr>
+            <br>
+
+            <label>Gender : </label>
+            <input type="radio"name="gender">
+            <label>Female</label>
+            
+            <input type="radio"name="gender">
+            <label>Male</label>
+            
+            <input type="radio"name="gender">
+            <label>Others</label>
+            <br><br>
+            <hr>
+            <br>
+
+        <fieldset>
+
+            <legend>Prefered Location:</legend>
+            <label for="Location">Location :</label>
+            <input type="text" list="Location">
+
+            <datalist id="Location">
+                <option value="Mohali">
+                <option value="Benglore">
+                <option value="Pune">
+                <option value="Gurugram">
+                <option value="Goa">
+                <option value="Chandigarh">
+            </datalist>
+
+        </fieldset>
+        <br><br>
+        <hr><hr>
+        <input type="submit"value="Submit Form" style="border: 2px solid; font-size: large;">
+        </form>
+
+    </div>
+
+</body>
+</html>
