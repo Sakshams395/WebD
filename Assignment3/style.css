@@ -1,0 +1,68 @@
+*
+{
+    background-color: black;
+    color: peru;
+    font-style: italic;
+}
+a
+{
+    text-decoration: none;
+    color: goldenrod;
+}
+a:hover
+{
+    color: green;
+}
+h1
+{
+    text-align: center;
+}
+.main
+{
+    padding: 2rem;
+}
+.firstName
+{
+    color: goldenrod;
+    text-transform: capitalize;
+    font-size: 7rem;
+    display: block;
+}
+.lastName
+{   
+    text-transform: capitalize;
+    font-size: 3rem;
+}
+.details
+{
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+/* styling for feedback_form */
+
+.fname
+{
+    margin-left: 10px;
+    border: 1px darkgoldenrod solid;
+}
+.fmail
+{
+    margin-left: 4px;
+    border: 1px darkgoldenrod solid;
+}
+.f
+{
+    font-size: 20px;
+}
+.fthanks
+{
+    font-size: 70;
+    margin: 240;
+    text-align: center;
+}
+.fshare
+{
+    font-size: 30px;
+}
