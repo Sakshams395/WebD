@@ -1,17 +1,16 @@
 *
 {
-    background-color: black;
-    color: peru;
+    color: darkcyan;
     font-style: italic;
 }
 a
 {
     text-decoration: none;
-    color: goldenrod;
+    color: cornsilk;
 }
 a:hover
 {
-    color: green;
+    color: aqua;
 }
 h1
 {
@@ -23,7 +22,7 @@ h1
 }
 .firstName
 {
-    color: goldenrod;
+    color: cornsilk;
     text-transform: capitalize;
     font-size: 7rem;
     display: block;
@@ -31,7 +30,8 @@ h1
 .lastName
 {   
     text-transform: capitalize;
-    font-size: 3rem;
+    font-size: 6rem;
+    color: cornsilk;
 }
 .details
 {
@@ -45,12 +45,12 @@ h1
 .fname
 {
     margin-left: 10px;
-    border: 1px darkgoldenrod solid;
+    border: 1px aquamarine solid;
 }
 .fmail
 {
     margin-left: 4px;
-    border: 1px darkgoldenrod solid;
+    border: 1px aquamarine solid;
 }
 .f
 {
@@ -64,5 +64,17 @@ h1
 }
 .fshare
 {
-    font-size: 30px;
+    font-size: 40px;
+    font-weight: 100;
+}
+body
+{
+    background-image: url(8.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+input
+{
+    border: 1px solid darkcyan;
 }

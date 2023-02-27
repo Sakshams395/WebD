@@ -12,17 +12,12 @@ div
 }
 .cname
 {
-    margin-left: 550;
-    font-size: 4rem;
-}
-.container
-{
-    background-color: burlywood;
+    margin-left: 62
+    font-size: 6rem;
 }
 form
 {
     padding: 3rem;
-    background-color: blanchedalmond;
 }
 .u
 {
@@ -72,4 +67,18 @@ form
 {
     color: red;
 }
-
+body
+{
+    background-image: url(8.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+*
+{
+    color: darkcyan;
+}
+input
+{
+    border: 1px solid darkcyan;
+}
