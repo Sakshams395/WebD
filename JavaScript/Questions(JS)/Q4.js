@@ -1,19 +1,15 @@
 for(var i=1; i<=15; i++)
 {
-    if(i%3==0)
+    if(i%3==0 && i%5 != 0)
     {
-        document.write(i+'Fizz'+'<br>')
+        document.write(i+' = Fizz'+'<br>')
     }
-    else if(i%5==0)
+    else if(i%5==0 && i%3!=0)
     {
-        document.write(i+'Buzz'+'<br>');
+        document.write(i+' = Buzz'+'<br>');
     }
-    else if(i%5 && i%3==0)
+    else if(i%3==0 && i%5==0)
     {
-        document.write(i+'Buzz - Fizz(both)'+'<br>');
-    }
-    else if(i == 15)
-    {
-        document.write(i+'Buzz - Fizz');
+        document.write(i+' = FizzBuzz'+'<br>');
     }
 }
