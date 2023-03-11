@@ -1,0 +1,13 @@
+.a .b
+{
+    color: antiquewhite;
+}
+/* styling for selector2 */
+.A > h1
+{
+    color: blue;
+}
+div > p
+{
+    color: brown;
+}

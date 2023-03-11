@@ -7,7 +7,7 @@ html
 body
 {
     font-family: inter, sans-serif;
-    background-image: url(8.jpg);
+    background-color: bisque;
     color:black;
 }
 
@@ -55,11 +55,11 @@ img
 }
 a:hover
 {
-    color: cornsilk;
+    color: aqua;
 }
 a
 {
-    color: darkcyan;
+    color: black;
     text-decoration: none;
 }
 .contact
@@ -286,10 +286,10 @@ ol
 }
 *
 {
-    color: darkcyan;
+    color: black;
 }
 hr
 {
-    color: darkcyan;
+    color: black;
 }
 
