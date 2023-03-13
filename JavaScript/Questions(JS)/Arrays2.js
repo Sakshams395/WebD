@@ -60,3 +60,5 @@
 //.random() methods returns a random value between 0 and 1 value
 // var x = Math.random;
 // document.write(x);
+
+## Map, filter, reduce, call, blind, apply, this key word, key, explore bootstrap **
