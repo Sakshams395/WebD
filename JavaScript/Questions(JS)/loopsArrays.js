@@ -1,7 +1,7 @@
 // for each loop
 //always used in arrays
 
-var arr = [15,2,5,47,4];
+//var arr = [15,2,5,47,4];
 
 // => arrow funcion
 
@@ -27,23 +27,27 @@ var arr = [15,2,5,47,4];
 //     hair : 'black',
 //     phno : 623
 // }
+
+//for in loop
+
 // for(let i in myList)
 // {
 //     document.write((myList)[i]+"<br>");
 // }
 
-var marks = 
-{
-    English : 50,
-    Hindi : 42,
-    Maths : 54,
-}
+// var marks = 
+// {
+//     English : 50,
+//     Hindi : 42,
+//     Maths : 54,
+// }
 
-for(let i in marks)
-{
-    document.write(i+"<br>");
-}
-for(let i in marks)
-{
-    document.write((marks)[i]+"<br>");
-}
+// for(let i in marks)
+// {
+//     document.write(i+"<br>");
+// }
+// for(let i in marks)
+// {
+//     document.write((marks)[i]+"<br>");
+// }
+

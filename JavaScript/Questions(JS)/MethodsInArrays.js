@@ -61,4 +61,31 @@
 // var x = Math.random;
 // document.write(x);
 
-## Map, filter, reduce, call, blind, apply, this key word, key, explore bootstrap **
+// ## Map, filter, reduce, call, bind, apply, this key word, key, explore bootstrap **
+
+//.map() function creates a new array unlike foreach who operates and access an existing array's elements one by one
+
+// let arr = [45,22,1];
+// document.write(arr+"<br>");
+// var x = arr.map((v,i,a)=>{return  + 2});
+// document.write(x);
+
+
+// .filter() function checks a given condition and gives a new array accordingly 
+//let arr = [2,3,5];
+
+// document.write(arr.filter(x=>{return x>2}));
+// similarly
+
+//var z = arr.filter(x=>{return x<5});
+
+//document.write(z);
+
+
+//array reduce method
+
+// var arr = [10,2,1];
+
+// let x = arr.reduce((l,m) => {return l-m});
+
+// document.write(x);
