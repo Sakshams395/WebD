@@ -12,9 +12,8 @@
 
 
 //forOf loop
+
 //always used in objects    
-
-
 // for(let i of arr)
 // {
 //     document.write(i+"<br>");
